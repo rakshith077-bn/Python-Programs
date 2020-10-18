@@ -1,3 +1,3 @@
 # Python-Programs
-## Simple python programs for beginner
+## Simple python programs for a beginner
 
